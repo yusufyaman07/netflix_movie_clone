@@ -18,12 +18,6 @@ This project is a clone of Netflix's web application and is developed using Reac
 - Redux Thunk: Used for Redux actions.
 - Bootstrap: Used for basic styling and editing.
 
-# How to Operate 
-
-1. Clone the repo to your local machine.
-2. Run npm install to install the required dependencies.
-3. Run the npm start command to start the development server.
-4. Go to localhost:3000 in your browser.
 
 # Preview:
 ![netflix_clone](https://github.com/yusufyaman07/netflix_movie_clone/assets/148998418/2058e5af-4d04-4093-b19a-81e1b773ae58)
