@@ -30,6 +30,6 @@ This project is a clone of Netflix's web application and is developed using Reac
 
 
 # For Live Project: 
- https://snazzy-lamington-4d8860.netlify.app/
+[ https://snazzy-lamington-4d8860.netlify.app/](https://netflixclonebyyusufyaman.netlify.app)
  # Used API:
  https://developer.themoviedb.org/
